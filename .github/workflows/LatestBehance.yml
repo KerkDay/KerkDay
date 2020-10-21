@@ -13,5 +13,5 @@ jobs:
         with:
           comment_tag_name: "BEHANCE_FEED"
           custom_tags: "desc/content:encoded/"
-          template: "[ ![$title]($desc) ]($url) <br> " 
+          template: "[ $title ]($url) <br> " 
           feed_list: "https://www.behance.net/feeds/user?username=kerkday1"
