@@ -1,4 +1,4 @@
-### I am Kerk Day
+# Kerk Day
 Website and Software Developer, Freelance Designer
 
 ## Find me elsewhere
