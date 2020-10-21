@@ -12,6 +12,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BEHANCE_FEED"
-          template: "[ ![$title]($description) ]($url)" 
-          custom_tags: "description/description"
+          custom_tags: "desc/content:encoded/"
+          template: "[ ![$title]($desc) ]($url) <br> " 
           feed_list: "https://www.behance.net/feeds/user?username=kerkday1"
