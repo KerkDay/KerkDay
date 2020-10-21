@@ -1,9 +1,9 @@
 ### I am Kerk Day, a Web Developer and Freelance Designer. 😁
 
 ## Find me elsewhere
-🌐 Website: [KerkDay.com](http://kerkday.com)
-🐦 Twitter: [@KerkDay](https://twitter.com/KerkDay)
-💼 LinkedIn: [Kerk Day](https://www.linkedin.com/in/kerkday/)
+🌐 Website: [KerkDay.com](http://kerkday.com)  
+🐦 Twitter: [@KerkDay](https://twitter.com/KerkDay)  
+💼 LinkedIn: [Kerk Day](https://www.linkedin.com/in/kerkday/)  
 
 <br>
 <hr>
