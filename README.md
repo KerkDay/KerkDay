@@ -2,9 +2,9 @@
 Website and Software Developer, Freelance Designer
 
 ## Skills
-**Front End JavaScript:** ReactJS, Vue, jQuery, and vanilla JS
-**Front End CSS:** Sass/Less, Bootstrap, Tailwind
-**Back End JavaScript:** NodeJS, Express, MongoDB, Firebase
+**Front End JavaScript:** ReactJS, Vue, jQuery, and vanilla JS  
+**Front End CSS:** Sass/Less, Bootstrap, Tailwind  
+**Back End JavaScript:** NodeJS, Express, MongoDB, Firebase  
 
 **Databases:** MySQL, Oracle SQL, NoSQL
 
