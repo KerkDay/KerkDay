@@ -1,6 +1,17 @@
 # Kerk Day
 Website and Software Developer, Freelance Designer
 
+## Skills
+**Front End JavaScript:** ReactJS, Vue, jQuery, and vanilla JS
+**Front End CSS:** Sass/Less, Bootstrap, Tailwind
+**Back End JavaScript:** NodeJS, Express, MongoDB, Firebase
+
+**Databases:** MySQL, Oracle SQL, NoSQL
+
+**Code Languages known:** PHP, Java, C#, Python, Golang, GScript
+
+**Design Software:** Photoshop, Illustrator, Premiere, After Effects, Blender, Aseprite
+
 ## Find me elsewhere
 🌐 Website: [KerkDay.com](http://kerkday.com)  
 🐦 Twitter: [@KerkDay](https://twitter.com/KerkDay)  
