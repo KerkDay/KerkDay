@@ -31,4 +31,4 @@ Website and Software Developer, Freelance Designer
 ![React](icons/google-downasaur.png) Aseprite  
 
 ## Newest Blog Posts on [KerkDay.com](https://www.kerkday.com)
-<!-- BLOG_FEED:START --><a href="$link"> Compressing Images Client-side </a><br/><b> Modern web development philosophy dictates that the server should do as little as possible, and that includes image compression. </b><br/><a href="$link"> My Giant Playlist full of Dogs </a><br/><b> Every song has a dog on it's cover, and the music's pretty bangin. </b><br/><a href="$link"> How I made this website </a><br/><b> A look at how I created my website. </b><br/><!-- BLOG_FEED:END -->
+<!-- BLOG_FEED:START --><a href="$link"> Compressing Images Client-side </a><br/><b> Modern web development philosophy dictates that the server should do as little as possible, and that includes image compression. </b><br/><a href="$link"> My Giant Playlist full of Dogs </a><br/><b> Every song has a dog on it&#39;s cover, and the music&#39;s pretty bangin. </b><br/><a href="$link"> How I made this website </a><br/><b> A look at how I created my website. </b><br/><!-- BLOG_FEED:END -->
